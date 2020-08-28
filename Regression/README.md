@@ -11,4 +11,5 @@ The notebook touches on the following concepts:
 - Regularization (L1, L2 and Elastic Net)
 - Cross Validation
 - Pipelining a Regressor
+- Loading and reshaping of data when dealing with one independent and dependent variable
 - Multiple Linear Regression

@@ -5,10 +5,10 @@
 The rest are images used for explanation and illustration purposes in the notebook.
 
 The notebook touches on the following concepts:
-- Linear Regression
-- Gradient Descent
-- Regression Loss Functions
-- Regularization
+- Linear Regression (Simple)
+- Gradient Descent Optimization 
+- Regression Loss Functions (MAE, MSE, Huber and Log Cosh Loss)
+- Regularization (L1, L2 and Elastic Net)
 - Cross Validation
 - Pipelining a Regressor
 - Multiple Linear Regression
